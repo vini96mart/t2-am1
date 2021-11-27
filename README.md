@@ -1,6 +1,8 @@
 # t2-am1
 Trabalho Prático 2 - Aprendizado de Máquina 1
+
 Matheus Coelho de Moura Ribeiro - 727609
+
 Vinícius Farias Martins - 727357
 
 Este repositório conta com:
