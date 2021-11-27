@@ -9,8 +9,5 @@ iris.rename(columns={0:'sepala_altura',
                      3:'petala_largura',
                      4:'classe'}, inplace=True)
 
-iris_data = iris[['sepala_altura', 'sepala_largura', 'petala_altura', 'petala_largura']]
-iris_label = iris['classe']
-
 #iris
 iris.describe()
